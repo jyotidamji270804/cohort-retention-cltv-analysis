@@ -120,8 +120,19 @@ cohort-retention-cltv-analysis
 
 Successfully developed a complete customer retention and Customer Lifetime Value analytics workflow using Python and data visualization techniques. The project provides actionable business insights that can support customer retention strategies and revenue growth initiatives.
 
-## Author
+## Business Recommendations
 
-Jyoti Damji
+Based on the Cohort Retention and Customer Lifetime Value (CLTV) analysis, the following recommendations can help improve business performance:
 
-Data Analytics Internship Project
+- Focus on retaining high-value customers through loyalty programs.
+- Increase engagement with medium-value customers using personalized offers.
+- Encourage repeat purchases from low-value customers through promotional campaigns.
+- Monitor customer retention trends regularly to identify changes in customer behaviour.
+- Use CLTV insights to optimize marketing and customer relationship strategies.
+
+## Future Enhancements
+
+- Build an interactive dashboard using Power BI.
+- Develop a customer churn prediction model.
+- Automate data processing using scheduled ETL pipelines.
+- Include customer segmentation dashboards for better decision-making.

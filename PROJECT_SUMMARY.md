@@ -44,3 +44,31 @@ Online Retail Dataset
 - Develop loyalty programs.
 - Re-engage inactive customers.
 - Focus marketing on high-value customers.
+
+## Key Findings
+
+- Customer retention decreases over time across different cohorts.
+- A small percentage of customers generate a significant portion of the total revenue.
+- High-value customers contribute the highest Customer Lifetime Value (CLTV).
+- Customer segmentation helps identify customers who require targeted retention strategies.
+- Cohort analysis provides valuable insights into customer purchasing behaviour.
+
+---
+
+## Conclusion
+
+The Cohort Retention and Customer Lifetime Value (CLTV) Analysis project provides meaningful insights into customer behaviour and long-term business performance. The analysis helps identify valuable customers, evaluate customer retention, and support data-driven business decisions. These findings can help businesses improve customer engagement, optimize marketing strategies, and increase long-term profitability.
+
+---
+
+## Skills Demonstrated
+
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Cohort Retention Analysis
+- Customer Lifetime Value (CLTV) Analysis
+- Customer Segmentation
+- Business Insight Generation
+- Python (Pandas, NumPy)
+- Data Visualization
+- Git and GitHub
